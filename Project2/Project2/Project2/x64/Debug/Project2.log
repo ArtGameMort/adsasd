@@ -1,0 +1,6 @@
+﻿  MainForm.cpp
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Создание кода...
+  MainForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+LINK : error LNK2001: неразрешенный внешний символ main.
+C:\Users\Артем\source\repos\Project2\Project2\x64\Debug\Project2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
